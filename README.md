@@ -16,7 +16,7 @@ On `pages/_app.js`, you'll find our `ThirdwebProvider` wrapping your app, this i
 Deploy a copy of your application to IPFS using the following command:
 
 ```bash
-yarn deploy
+npm install
 ```
 
 ## Learn More
