@@ -1,11 +1,6 @@
 import { ThirdwebProvider, useStorageUpload,MediaRenderer } from "@thirdweb-dev/react"
 import { useCallback, useState } from "react"
 import { useDropzone } from "react-dropzone"
-import {
-  AiFillTwitterCircle,
-  AiFillLinkedin,
-  AiFillYoutube,
-} from "react-icons/ai"
 
 
 export default function Component() {
