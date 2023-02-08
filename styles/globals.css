@@ -75,7 +75,7 @@ a {
 }
 .imp{
   margin-left: 100px;
-  margin-top: 150px;
+  margin-top: 100px;
   font-size: 20px;
   font-weight: 700;
 }
@@ -106,7 +106,10 @@ a {
 padding-right: 20px;
 
 }
-
+.email{
+  height: 22px;
+  margin-right: 10px;
+}
 
 @media only screen and (max-width: 600px) {
   html {
@@ -155,7 +158,7 @@ padding-right: 20px;
   }
   .imp{
     margin-left: 20px;
-    margin-top: 150px;
+    margin-top: 90px;
     font-size: 16px;
     font-weight: 300;
   }
@@ -199,5 +202,9 @@ padding-right: 20px;
     font-size: 20px;
     margin-left: 30px;
   }
-
+  .email{
+    height: 22px;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
 }
