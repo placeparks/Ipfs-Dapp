@@ -7,7 +7,7 @@ export default function Home() {
 
   return (
 <div class="mint-page">
-     <nav class="nav-mint"><a class="home-mint" href="https://sign-in-b4xz.vercel.app/">Home</a></nav>
+     <nav className="nav-mint"><a className="home-mint" href="https://sign-in-b4xz.vercel.app/">Home</a></nav>
          <h1>Welcome to the Gasless NFT experience</h1>
       <Web3Button
   
@@ -18,7 +18,7 @@ export default function Home() {
       >
         Claim
       </Web3Button>
-      <div class="footer"><a target="_blank" href="https://bio.link/099" rel="noreferrer"><Image src="/mail.png" height={22} width={20} alt="contact"/></a>
+      <div className="footer"><a target="_blank" href="https://bio.link/099" rel="noreferrer"><Image src="/mail.png" height={22} width={20} alt="contact"/></a>
 Developed by Mirac.eth</div>
     </div>
   );
