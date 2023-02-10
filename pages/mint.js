@@ -1,5 +1,5 @@
 import { Web3Button } from "@thirdweb-dev/react";
-import Image from 'next/images'
+import Image from 'next/image'
 
 export default function Home() {
   const tokenId = 0;
