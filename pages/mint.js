@@ -6,7 +6,7 @@ export default function Home() {
   const quantity = 1;
 
   return (
-<div class="mint-page">
+<div className="mint-page">
      <nav className="nav-mint"><a className="home-mint" href="https://sign-in-b4xz.vercel.app/">Home</a></nav>
          <h1>Welcome to the Gasless NFT experience</h1>
       <Web3Button
